@@ -14,7 +14,7 @@ Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap5 | JavaScript | ES6 | React |  j
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imtiaz-ahmmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imtiaz-ahmmed/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaz-ahmmed)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiaz-ahmmed&show_icons=true&locale=en&layout=compact" alt="imtiaz-ahmmed" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiaz-ahmmed&show_icons=true)  
 
