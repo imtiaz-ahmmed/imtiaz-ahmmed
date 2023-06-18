@@ -5,7 +5,7 @@
 I am a responsible and highly motivated front-end developer with a strong ability to work independently and collaborate effectively within cross-functional teams. Possessing a strong belief in hard work and determination as the keys to success brings these 
 qualities to every project.
 
-Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap5 | JavaScript | ES6 | React |  jQuery | Firebase | MongoDB | REST APIs | Express.js | Node.js | JWT
+Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap5 | JavaScript | ES6 | React |  jQuery | Firebase | MongoDB | REST APIs | Express.js | Node.js | JWT | AXIOS |
 
 - 🔭 I’m currently working on a Full stack project 
 - 🌱 I’m currently learning Node.js  
