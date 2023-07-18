@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Imtiaz Ahmmed
 ####  Full Stack Developer
-![ Frontend Developer](https://i.ibb.co/rk1CzTP/banner.png)
+<a href="https://ibb.co/K63MfRZ"><img src="https://i.ibb.co/5TfNStD/banner.png" alt="banner" border="0"></a>
 
 I am a responsible and highly motivated full-stack developer with a strong ability to work independently and collaborate effectively within cross-functional teams. Possessing a strong belief in hard work and determination as the keys to success brings these 
 qualities to every project.
