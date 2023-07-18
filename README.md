@@ -1,14 +1,14 @@
 ### Hi there 👋, This is Imtiaz Ahmmed
 ####  Frontend Developer
-![ Frontend Developer](https://i.ibb.co/JnFcSp7/Black-Minimalist-Corporate-Professional-Profile-Linked-In-Banner.png)
+![ Frontend Developer]([https://i.ibb.co/JnFcSp7/Black-Minimalist-Corporate-Professional-Profile-Linked-In-Banner.png](https://ibb.co/K9K8nkt))
 
-I am a responsible and highly motivated front-end developer with a strong ability to work independently and collaborate effectively within cross-functional teams. Possessing a strong belief in hard work and determination as the keys to success brings these 
+I am a responsible and highly motivated full stack developer with a strong ability to work independently and collaborate effectively within cross-functional teams. Possessing a strong belief in hard work and determination as the keys to success brings these 
 qualities to every project.
 
 Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap5 | JavaScript | ES6 | React |  jQuery | Firebase | MongoDB | REST APIs | Express.js | Node.js | JWT | AXIOS |
 
 - 🔭 I’m currently working on a Full stack project 
-- 🌱 I’m currently learning Node.js  
+- 🌱 I’m currently learning TypeScript.js  
 - 📫 How to reach me: imtiazahmmed00@gmail.com  
 
 
