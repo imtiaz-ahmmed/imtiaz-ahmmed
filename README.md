@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Imtiaz Ahmmed
 ####  Frontend Developer
-![ Frontend Developer]([https://i.ibb.co/JnFcSp7/Black-Minimalist-Corporate-Professional-Profile-Linked-In-Banner.png](https://ibb.co/K9K8nkt))
+![ Frontend Developer](https://i.ibb.co/khmPZfL/banner.png)
 
 I am a responsible and highly motivated full stack developer with a strong ability to work independently and collaborate effectively within cross-functional teams. Possessing a strong belief in hard work and determination as the keys to success brings these 
 qualities to every project.
