@@ -1,8 +1,8 @@
 ### Hi there 👋, This is Imtiaz Ahmmed
 ####  Full Stack Developer
-![ Frontend Developer](https://i.ibb.co/khmPZfL/banner.png)
+![ Frontend Developer](https://ibb.co/K9K8nkt)
 
-I am a responsible and highly motivated full stack developer with a strong ability to work independently and collaborate effectively within cross-functional teams. Possessing a strong belief in hard work and determination as the keys to success brings these 
+I am a responsible and highly motivated full-stack developer with a strong ability to work independently and collaborate effectively within cross-functional teams. Possessing a strong belief in hard work and determination as the keys to success brings these 
 qualities to every project.
 
 Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap5 | JavaScript | ES6 | React |  jQuery | Firebase | MongoDB | REST APIs | Express.js | Node.js | JWT | AXIOS |
