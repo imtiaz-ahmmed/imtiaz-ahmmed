@@ -10,7 +10,7 @@ I am a responsible and highly motivated full-stack developer with a solid abilit
 Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap5 | JavaScript | ES6 | React | jQuery | Firebase | MongoDB | REST APIs | Express.js | Node.js | JWT | AXIOS
 
 - 🔭 I’m currently working on a Full-stack project
-- 🌱 I’m currently learning TypeScript.js
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: imtiazahmmed00@gmail.com
 
 [![GitHub](https://img.shields.io/badge/GitHub-imtiaz--ahmmed-black?logo=github&style=flat-square)](https://github.com/imtiaz-ahmmed)
