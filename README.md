@@ -15,6 +15,7 @@ Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap5 | JavaScript | ES6 | React | jQ
 
 [![GitHub](https://img.shields.io/badge/GitHub-imtiaz--ahmmed-black?logo=github&style=flat-square)](https://github.com/imtiaz-ahmmed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imtiaz--ahmmed-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/imtiaz-ahmmed/)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=imtiaz-ahmmed)
 
 ###### Visit My [Portfolio](https://imtiaz-ahmmed.netlify.app)
 
