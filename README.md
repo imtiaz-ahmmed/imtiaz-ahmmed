@@ -20,10 +20,10 @@ Skills: HTML5 | CSS3 | Tailwind CSS | Bootstrap5 | JavaScript | ES6 | React | jQ
 ###### Visit My [Portfolio](https://imtiaz-ahmmed.netlify.app)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=imtiaz-ahmmed&show_icons=true&locale=en&layout=compact)
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=imtiaz-ahmmed)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiaz-ahmmed&show_icons=true)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=imtiaz-ahmmed)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=imtiaz-ahmmed&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaz-ahmmed" />
