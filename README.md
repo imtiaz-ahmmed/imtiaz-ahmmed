@@ -9,6 +9,17 @@ I am a results-oriented Full Stack Developer, demonstrating proficiency in both 
 ## Skills:
 HTML5 | CSS3 | Tailwind CSS | Bootstrap5 | JavaScript | ES6 | React | jQuery | Firebase | MongoDB | REST APIs | Express.js | Node.js | JWT | AXIOS
 
+[<img src="https://img.icons8.com/color/48/000000/html-5.png"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://img.icons8.com/color/48/000000/css3.png"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>](https://tailwindcss.com/)
+[<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>](https://getbootstrap.com/)
+[<img src="https://img.icons8.com/color/48/000000/javascript.png"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](https://reactjs.org/)
+[<img src="https://img.icons8.com/color/48/000000/firebase.png"/>](https://firebase.google.com/)
+[<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>](https://www.mongodb.com/)
+[<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>](https://nodejs.org/)
+
+
 ## 💼 Currently Engaged In:
 Working on a challenging Full-stack project.
 
